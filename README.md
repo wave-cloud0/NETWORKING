@@ -20,7 +20,7 @@ Total Bits = 32
 On Bits = 29  
 Off Bits = 29 - 32 = 3
 
-This means the first full 3 octet and part of the 4th octet are ones. We have  
+This means the first full 3 octet and part of the 4th octet as ones and the rest zeros. We have  
 
 Base 2: 1111 1111. 1111 1111. 1111 1111. 1111 1000
 
